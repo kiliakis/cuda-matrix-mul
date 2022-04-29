@@ -1,0 +1,150 @@
+size: 256 iteration: 1
+M:256, validate:1
+Testing MM... PASS
+MM CPU time: 0.109153
+MM GPU time: 0.001191
+
+size: 256 iteration: 2
+M:256, validate:1
+Testing MM... PASS
+MM CPU time: 0.108070
+MM GPU time: 0.001184
+
+size: 256 iteration: 3
+M:256, validate:1
+Testing MM... PASS
+MM CPU time: 0.107925
+MM GPU time: 0.001050
+
+size: 256 iteration: 4
+M:256, validate:1
+Testing MM... PASS
+MM CPU time: 0.108249
+MM GPU time: 0.001034
+
+size: 256 iteration: 5
+M:256, validate:1
+Testing MM... PASS
+MM CPU time: 0.109508
+MM GPU time: 0.001067
+
+size: 512 iteration: 1
+M:512, validate:1
+Testing MM... PASS
+MM CPU time: 0.216063
+MM GPU time: 0.002073
+
+size: 512 iteration: 2
+M:512, validate:1
+Testing MM... PASS
+MM CPU time: 0.215370
+MM GPU time: 0.001969
+
+size: 512 iteration: 3
+M:512, validate:1
+Testing MM... PASS
+MM CPU time: 0.213580
+MM GPU time: 0.001982
+
+size: 512 iteration: 4
+M:512, validate:1
+Testing MM... PASS
+MM CPU time: 0.213994
+MM GPU time: 0.001922
+
+size: 512 iteration: 5
+M:512, validate:1
+Testing MM... PASS
+MM CPU time: 0.214858
+MM GPU time: 0.001940
+
+size: 1024 iteration: 1
+M:1024, validate:1
+Testing MM... PASS
+MM CPU time: 0.417624
+MM GPU time: 0.003819
+
+size: 1024 iteration: 2
+M:1024, validate:1
+Testing MM... PASS
+MM CPU time: 0.426734
+MM GPU time: 0.003819
+
+size: 1024 iteration: 3
+M:1024, validate:1
+Testing MM... PASS
+MM CPU time: 0.396827
+MM GPU time: 0.003790
+
+size: 1024 iteration: 4
+M:1024, validate:1
+Testing MM... PASS
+MM CPU time: 0.432025
+MM GPU time: 0.004024
+
+size: 1024 iteration: 5
+M:1024, validate:1
+Testing MM... PASS
+MM CPU time: 0.436065
+MM GPU time: 0.003751
+
+size: 2048 iteration: 1
+M:2048, validate:1
+Testing MM... PASS
+MM CPU time: 0.859532
+MM GPU time: 0.007145
+
+size: 2048 iteration: 2
+M:2048, validate:1
+Testing MM... PASS
+MM CPU time: 0.861283
+MM GPU time: 0.007741
+
+size: 2048 iteration: 3
+M:2048, validate:1
+Testing MM... PASS
+MM CPU time: 0.851348
+MM GPU time: 0.007719
+
+size: 2048 iteration: 4
+M:2048, validate:1
+Testing MM... PASS
+MM CPU time: 0.866881
+MM GPU time: 0.007744
+
+size: 2048 iteration: 5
+M:2048, validate:1
+Testing MM... PASS
+MM CPU time: 0.871517
+MM GPU time: 0.007732
+
+size: 4096 iteration: 1
+M:4096, validate:1
+Testing MM... PASS
+MM CPU time: 1.511604
+MM GPU time: 0.015703
+
+size: 4096 iteration: 2
+M:4096, validate:1
+Testing MM... PASS
+MM CPU time: 1.702051
+MM GPU time: 0.015150
+
+size: 4096 iteration: 3
+M:4096, validate:1
+Testing MM... PASS
+MM CPU time: 1.748997
+MM GPU time: 0.014330
+
+size: 4096 iteration: 4
+M:4096, validate:1
+Testing MM... PASS
+MM CPU time: 1.723859
+MM GPU time: 0.015313
+
+size: 4096 iteration: 5
+M:4096, validate:1
+Testing MM... PASS
+MM CPU time: 1.738098
+MM GPU time: 0.015296
+
